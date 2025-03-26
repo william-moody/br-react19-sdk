@@ -1,4 +1,4 @@
-import { BrProps } from "component";
+import { BrProps } from "../../component";
 import { Component } from '@bloomreach/spa-sdk';
 
 export interface ContentBlockProps<T extends Component> extends BrProps<T>{
